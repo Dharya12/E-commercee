@@ -1,0 +1,11 @@
+.bodydata{
+    width : 7% ;
+    height : "10px" ;
+    margin: 20px;
+   
+    border-radius: 20% ;
+}
+
+ .bodydata:hover{
+    /* height : "900px" ; */
+}
